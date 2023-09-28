@@ -1,0 +1,16 @@
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\_2.Form1.resources
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.csproj.GenerateResource.cache
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.AssemblyInfoInputs.cache
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.AssemblyInfo.cs
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.csproj.CoreCompileInputs.cache
+C:\Users\busen\source\repos\2\2\bin\Debug\net6.0-windows\2.exe
+C:\Users\busen\source\repos\2\2\bin\Debug\net6.0-windows\2.deps.json
+C:\Users\busen\source\repos\2\2\bin\Debug\net6.0-windows\2.runtimeconfig.json
+C:\Users\busen\source\repos\2\2\bin\Debug\net6.0-windows\2.dll
+C:\Users\busen\source\repos\2\2\bin\Debug\net6.0-windows\2.pdb
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.dll
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\refint\2.dll
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.pdb
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\2.genruntimeconfig.cache
+C:\Users\busen\source\repos\2\2\obj\Debug\net6.0-windows\ref\2.dll
